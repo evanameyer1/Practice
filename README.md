@@ -6,7 +6,7 @@ I learned SQL completely on Mode Analytics via their free lessons, until I worke
 Then, after completing some easy, medium, and hard hackerrank problems, I basically jumped straight into SQL projects. The main SQL project where I made the most
 progress was the CTA Rework project, so feel free to visit that repo to see most of my SQL skills and growth. 
 
-> As of February 2023, I now also officially have by HackerRank Basic, Intermediate, and Advanced SQL certifications. I focus more of my current time on python, but
+> As of February 2023, I now also officially have my **HackerRank Basic, Intermediate, and Advanced SQL certifications.** I focus more of my current time on python, but
 > I occasionally complete SQL hackerrank or codewars problems, and uplaod them here. 
 
 ## For Python:
@@ -14,4 +14,4 @@ I learned python through geeksforgeeks, then practicing with the problems I incl
 and have included all of those problems and my various answers in the codewars python folder. I practice python on codewars everyday, and will continue to upload
 my problems here. 
 
-I'm still very new to python, with plans to continue to hone and grow my skills, and I plan on gaining some python certifications in the near future.
+> I'm still very new to python, with plans to continue to hone and grow my skills, and I plan on gaining some python certifications in the near future.
