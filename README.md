@@ -7,7 +7,7 @@ Then, after completing some easy, medium, and hard hackerrank problems, I basica
 progress was the CTA Rework project, so feel free to visit that repo to see most of my SQL skills and growth. 
 
 > As of February 2023, I now also officially have my **HackerRank Basic, Intermediate, and Advanced SQL certifications.** I focus more of my current time on python, but
-> I occasionally complete SQL hackerrank or codewars problems, and uplaod them here. 
+> I occasionally complete SQL hackerrank or codewars problems, and upload them here. 
 
 ## For Python:
 I learned python through geeksforgeeks, then practicing with the problems I included in the self-teaching python folder. Then, I put in a lot of time on codewars
